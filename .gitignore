@@ -1,0 +1,6 @@
+*.err
+*.tmp
+/bin
+acces.log
+*.env
+
